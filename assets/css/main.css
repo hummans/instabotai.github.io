@@ -3095,7 +3095,7 @@
 /* Header */
 
 	#header {
-		padding: 2em 2em 1em 2em ;
+		padding: 1em 1em 1em 1em ;
 		text-align: center;
 	}
 
@@ -3109,7 +3109,7 @@
 		}
 
 		#header.alt {
-			padding: 7em 5em 4em 5em ;
+			padding: 3em 2em 1em 2em ;
 		}
 
 			#header.alt h1 {
