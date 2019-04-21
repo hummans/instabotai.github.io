@@ -18,7 +18,7 @@ permalink: /docs/en/Installation_on_Windows/
 
 There are two options for downloading the project:
 
-a) Click the link https://github.com/instagrambot/Instagram-scraper-with-autopost Click on "Clone or download", and then on "Download ZIP". Unpack it.
+a) Click the link https://github.com/instagrambot/instabotai Click on "Clone or download", and then on "Download ZIP". Unpack it.
 b) Installing the Git Client:
 1. Go to the Git [site](https://git-scm.com/downloads).
 2. Choose the version that suits you (depends on the operating system).
