@@ -8,7 +8,7 @@ title: docs
 
 Welcome to [Instagram Scraper](https://github.com/Instagram-scraper-with-autopost) Documentation! 
 
-Available languages: [🇬🇧](en/)
+Available languages: [🇬🇧](en.md)
 
 ## Contributing
 
