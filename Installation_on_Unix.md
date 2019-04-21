@@ -8,29 +8,14 @@ permalink: /docs/en/Installation_on_Unix/
 * Open terminal and run.
 
 ```
-git clone https://github.com/instagrambot/Instagram-scraper-with-autopost --recursive
-```
+git clone https://github.com/instagrambot/instabotai.git
 
-```
-cd Instagram-scraper-with-autopost
-```
+cd instabotai
 
-```
 sudo pip install -r requirements.txt
+
+Run: python example.py -u yourusername -p password -l therock,kimkardashian
 ```
-
-
-
-* change yourusername to your instagram username in file example.py line 29: InstaUsername = "yourusername"
-
-
-* change instaprofiles.txt to the instagram profiles you wanna scrape
-
-
-```
-Run: python example.py -u yourusername
-```
-
 
 ```
 And press Enter.
