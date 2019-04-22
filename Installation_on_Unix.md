@@ -14,7 +14,7 @@ cd instabotai
 
 sudo pip install -r requirements.txt
 
-Run: python example.py -u yourusername -p password -l therock,kimkardashian
+Run: python example.py -u yourusername -p password -l therock,kimkardashian -t "#like4like#follow4follow"
 ```
 
 ```
